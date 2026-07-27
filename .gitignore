@@ -13,3 +13,5 @@
 *.su
 *.idb
 *.pdb
+
+__pycache__
