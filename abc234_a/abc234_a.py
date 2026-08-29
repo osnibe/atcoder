@@ -1,3 +1,6 @@
+'''
+https://atcoder.jp/contests/abc234/tasks/abc234_a
+'''
 #!/usr/bin/env python
 
 t=int(input())
